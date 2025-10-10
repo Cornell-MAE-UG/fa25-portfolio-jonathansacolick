@@ -1,6 +1,6 @@
 ---
 layout: default
-title: <Your Name> - Curriculum Vitae
+title: Jonathan Sacolick - Curriculum Vitae
 permalink: /cv/
 ---
 ## Curriculum Vitae
@@ -8,19 +8,19 @@ permalink: /cv/
 [Download my CV]({{ "/assets/CV.pdf" | relative_url }}) in PDF format.
 
 
-**Email:** [netID@cornell.edu](mailto:netID@cornell.edu) | | | **Phone:** +123 456 7890
+**Email:** [jgs288@cornell.edu](mailto:jgs288@cornell.edu) | | | **Phone:** +15164588526
 
 ---
 
 #### Objective
-Aspiring engineering student with a strong foundation in.... Passionate about ... and eager to apply my knowledge in real-world applications.
+Aspiring engineering student with a strong foundation in <><><> Passionate about <><><> and eager to apply my knowledge in real-world applications.
 
 ---
 
 #### Education
 - **Cornell University**  
   *Bachelor of Science in Mechanical and Aerospace Engineering*  
-  GPA: 3.8/4.0 | Graduation: Month, Year
+  GPA: 3.5/4.0 | Graduation: Month, Year
 
 - **[High School Name]**  
   *High School Diploma*  
