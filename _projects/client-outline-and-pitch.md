@@ -1,11 +1,6 @@
-
 ---
-fontsize: 11pt
-geometry: margin=1in
-papersize: letter
-pagestyle: empty
-header-includes: \pagenumbering{gobble}
-output: pdf_document
+layout: project
+title: Client Outline and Pitch
 ---
 
 ## Attacking Spotted Lanternflies' Reproduction Rate
@@ -45,8 +40,6 @@ This involves weaving netting in a spiral formation to funnel and trap nymph SLF
    *Decision affected:* We can learn from these experiences to modify our traps (specifically the netting) to avoid ideas that do not work in practice.
 3. **What are the main barriers to removing egg masses: are they too high to reach, too hard to scrape off due to geometry of the object, or a difficult consistency?**  
    *Decision affected:* Knowing this will allow us to design the geometry of the scraper for as many situations as possible and inform what features to focus on. 
-
-\newpage
 
 ### References
 

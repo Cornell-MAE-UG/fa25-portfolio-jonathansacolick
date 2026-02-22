@@ -1,9 +1,8 @@
 ---
 layout: project
-title: HW 5 & 12 – Lifting Mechanism
+title: Thermo Assignment
 description: Rigid-bar design, then beam deflection and redesign
 technologies: [Goodnotes, Statics, Solid Mechanics]
-image: /assets/images/class_project_solution.jpg
 ---
 
 This project involved designing a 2D lifting mechanism within a prescribed design window and then analyzing the same mechanism as a flexible beam. The assignment proceeded in two steps:
